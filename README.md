@@ -129,6 +129,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [mohdosama6392@example.com](mailto:mohdosama6392@example.com)
 
-Project Link: [https://github.com/your-username/task-manager](https://github.com/your-username/task-manager)
+Project Link: [https://github.com/mohdosama9045/Task-Manager](https://github.com/mohdosama9045/Task-Manager)
